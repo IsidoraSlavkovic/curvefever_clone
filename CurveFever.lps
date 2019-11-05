@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="CurveFever.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="19" Y="1065"/>
+        <FoldState Value=" T3iI0F7 pjYlZ054]9Mjd0D112 TMig09 T0+7cp TCjUC81W"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value=""/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\sdl\src\sdl.pas"/>
+        <TopLine Value="1971"/>
+        <CursorPos X="3" Y="1988"/>
+        <UsageCount Value="21"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\systemh.inc"/>
+        <TopLine Value="264"/>
+        <CursorPos X="3" Y="281"/>
+        <UsageCount Value="21"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\math.pp"/>
+        <TopLine Value="1769"/>
+        <CursorPos X="34" Y="1792"/>
+        <UsageCount Value="21"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\inc\mathh.inc"/>
+        <TopLine Value="55"/>
+        <CursorPos X="14" Y="69"/>
+        <UsageCount Value="21"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\sdl\src\sdl_gfx.pas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="541"/>
+        <CursorPos X="21" Y="189"/>
+        <UsageCount Value="26"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\sdl\src\sdl_ttf.pas"/>
+        <TopLine Value="481"/>
+        <CursorPos X="10" Y="272"/>
+        <UsageCount Value="15"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <UsageCount Value="19"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="E:\CurveFever\CurveFever.lpr"/>
+        <TopLine Value="771"/>
+        <CursorPos Y="872"/>
+        <FoldState Value=" T3i70F13213 pjPoB0p2]9Ika0{o[A4CmN031 TMiW09Y"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\sdl\src\sdl_image.pas"/>
+        <TopLine Value="196"/>
+        <CursorPos X="10" Y="206"/>
+        <UsageCount Value="9"/>
+      </Unit10>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="875" Column="34" TopLine="858"/>
+      </Position1>
+      <Position2>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="545" Column="8" TopLine="480"/>
+      </Position2>
+      <Position3>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="564" Column="22" TopLine="549"/>
+      </Position3>
+      <Position4>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="191" Column="3" TopLine="161"/>
+      </Position4>
+      <Position5>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="567" Column="31" TopLine="546"/>
+      </Position5>
+      <Position6>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="855" Column="38" TopLine="798"/>
+      </Position6>
+      <Position7>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="583" Column="47" TopLine="568"/>
+      </Position7>
+      <Position8>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="428" Column="5" TopLine="324"/>
+      </Position8>
+      <Position9>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="192" Column="3" TopLine="164"/>
+      </Position9>
+      <Position10>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="476" Column="7" TopLine="467"/>
+      </Position10>
+      <Position11>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="239" Column="17" TopLine="217"/>
+      </Position11>
+      <Position12>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="598" Column="42" TopLine="580"/>
+      </Position12>
+      <Position13>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="969" Column="86" TopLine="941"/>
+      </Position13>
+      <Position14>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="47" Column="30" TopLine="23"/>
+      </Position14>
+      <Position15>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="568" Column="33" TopLine="559"/>
+      </Position15>
+      <Position16>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="940" Column="22" TopLine="875"/>
+      </Position16>
+      <Position17>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="933" Column="44" TopLine="858"/>
+      </Position17>
+      <Position18>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="623" Column="28" TopLine="608"/>
+      </Position18>
+      <Position19>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="986" Column="11" TopLine="969"/>
+      </Position19>
+      <Position20>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="838" Column="11" TopLine="829"/>
+      </Position20>
+      <Position21>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="986" Column="11" TopLine="969"/>
+      </Position21>
+      <Position22>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="555" Column="11" TopLine="538"/>
+      </Position22>
+      <Position23>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="986" Column="11" TopLine="969"/>
+      </Position23>
+      <Position24>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="989" Column="60" TopLine="969"/>
+      </Position24>
+      <Position25>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="555" Column="11" TopLine="537"/>
+      </Position25>
+      <Position26>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="986" Column="86" TopLine="969"/>
+      </Position26>
+      <Position27>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="555" Column="95" TopLine="548"/>
+      </Position27>
+      <Position28>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="651" Column="89" TopLine="490"/>
+      </Position28>
+      <Position29>
+        <Filename Value="CurveFever.lpr"/>
+        <Caret Line="462" Column="22" TopLine="452"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="10">
+      <Item1>
+        <Expression Value="p1p"/>
+      </Item1>
+      <Item2>
+        <Expression Value="p1p_string"/>
+      </Item2>
+      <Item3>
+        <Expression Value="p2p"/>
+      </Item3>
+      <Item4>
+        <Expression Value="p2p_string"/>
+      </Item4>
+      <Item5>
+        <Expression Value="p1_surface^.w"/>
+      </Item5>
+      <Item6>
+        <Expression Value="p1_surface^.h"/>
+      </Item6>
+      <Item7>
+        <Expression Value="p2_surface^.w"/>
+      </Item7>
+      <Item8>
+        <Expression Value="p2_surface^.h"/>
+      </Item8>
+      <Item9>
+        <Expression Value="where_p1_surface"/>
+      </Item9>
+      <Item10>
+        <Expression Value="where_p2_surface"/>
+      </Item10>
+    </Watches>
+  </Debugging>
+</CONFIG>
